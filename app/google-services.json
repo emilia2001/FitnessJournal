@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597879603979",
+    "project_id": "fitness-journal-65045",
+    "storage_bucket": "fitness-journal-65045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597879603979:android:f39d1efc114c270daa180e",
+        "android_client_info": {
+          "package_name": "com.example.fitnessjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qMoRKLEiS1aDrvw6i3oxK5Y3qZHt2zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
